@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+}
+
+h1 {
+  margin: 0;
+}
+
+ul {
+  list-style: none;
+}
+
+img {
+  max-width: 100%;
+}
+/* header  */
+
+
+header {
+  background: rgb(83, 71, 71);
+}
+header ul {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+/* main */
+main .container {
+  margin: 16px;
+
+}
+
+
+/* small */
+
+@media (min-width: 670px) {
+
+}
